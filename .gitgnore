@@ -1,0 +1,3 @@
+data/records.csv
+data/telemetry_db.csv
+project_env/**
